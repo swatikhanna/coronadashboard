@@ -23,7 +23,7 @@
     "lib"
   ],
   "dependencies": {
-    "cli": "0.4.3",
+    "cli": "1.0.1",
     "minimatch": "0.0.x"
   },
   "devDependencies": {
